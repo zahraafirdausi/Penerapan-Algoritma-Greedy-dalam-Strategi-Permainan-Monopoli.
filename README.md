@@ -1,6 +1,6 @@
 # Penerapan Algoritma Greedy dalam Strategi Permainan Monopoli
 IPB University - KOM401 Analisis Algoritme
-Penerapan algoritma greedy dalam menentukan strategi terbaik untuk mendapatkan uang sebanyak-banyaknya dengan penggunaan modal seoptimal mungkin
+/n Penerapan algoritma greedy dalam menentukan strategi terbaik untuk mendapatkan uang sebanyak-banyaknya dengan penggunaan modal seoptimal mungkin
 
 ## Disusun oleh
 - Sabrina Diza Melinda  G64180029
